@@ -1,1 +1,3 @@
-# Water-Pollution-Typhoid-Insights-Dashboard
+# Water Pollution & Disease Exploratory Analysis – Typhoid Cases Dashboard
+
+An interactive Power BI dashboard developed to investigate how water pollution influences typhoid disease prevalence. The project transforms raw environmental and public health data into meaningful insights by examining factors such as bacterial contamination, rainfall patterns, water source types, healthcare access, economic conditions, and treatment methods. The dashboard enables users to perform dynamic analysis through filters and visualizations, making it a valuable decision-support tool for researchers, policymakers, and public health professionals working towards improving water safety and reducing disease outbreaks.
